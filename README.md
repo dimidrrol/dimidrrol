@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/c/dimidrrol">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/johny_shepard">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
