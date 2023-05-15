@@ -29,4 +29,4 @@
 </div>
 
 ### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimidrrol&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimidrrol&theme=transparent&hide_border=true&border_radius=5.1&locale=ru)](https://git.io/streak-stats)
