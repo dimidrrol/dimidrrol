@@ -28,5 +28,5 @@
   </a>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimidrrol&theme=light&background=000000)](https://git.io/streak-stats)
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimidrrol&theme=dark&background=000000)](https://git.io/streak-stats)
