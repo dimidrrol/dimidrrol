@@ -17,10 +17,10 @@
 
 ### 📨Мои соцсети:
 <div id="badges">
-  <a href="https://vk.com/id40067777" target="_blank">
+  <a href="https://vk.com/id40067777">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/c/dimidrrol">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
   <a href="your-twitter-URL">
