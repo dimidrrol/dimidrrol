@@ -6,4 +6,16 @@
 * 🤞Освоить новые фреймворки
 
 
-### 🛠Мой стак:
+### 🛠Мой стек:
+
+* JavaScript
+* React
+* JSX
+* Node.js
+* Notion
+
+### 📨Мои соцсети:
+
+* Youtube: https://www.youtube.com/c/dimidrrol
+* VK: https://vk.com/id40067777
+* Telegram: @johny_shepard
